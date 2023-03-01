@@ -31,7 +31,7 @@ List<List<String>> emoji = [
 
 ## Sample Usage
 
-```
+```dart
 import 'package:emoji_data/emoji_data.dart';
 import 'package:flutter/material.dart';
 
