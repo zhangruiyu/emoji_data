@@ -1,4 +1,4 @@
-# Flutter Choose Keyboard
+# Flutter Emoji data
 
 A Flutter package that provides all known emoji ICONS.You can customize your ui based on this data
 
