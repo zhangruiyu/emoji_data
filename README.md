@@ -8,6 +8,27 @@ A Flutter package that provides all known emoji ICONS.
 ## Usage
 To use this plugin, add `emoji_data` as dependency in your pubspec.yaml file.
 
+```dart
+import 'package:emoji_data/emoji_data.dart';
+List<List<String>> emoji = [
+    Emoji.smileys,
+    Emoji.gesturesAndBodyParts,
+    Emoji.peopleAndFantasy,
+    Emoji.clothingAndAccessories,
+    Emoji.paleEmojis,
+    Emoji.creamWhiteEmojis,
+    Emoji.brownEmojis,
+    Emoji.blackEmojis,
+    Emoji.animalsNature,
+    Emoji.foodDrink,
+    Emoji.activityAndSports,
+    Emoji.travelPlaces,
+    Emoji.objects,
+    Emoji.symbols,
+    Emoji.flags
+  ];
+```
+
 ## Sample Usage
 
 ```
