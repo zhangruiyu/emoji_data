@@ -1,6 +1,6 @@
 # Flutter Choose Keyboard
 
-A Flutter package that provides all known emoji ICONS.
+A Flutter package that provides all known emoji ICONS.You can customize your ui based on this data
 
 ### Content in: https://getemoji.com/
 
